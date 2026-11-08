@@ -1,5 +1,5 @@
 # GnomeXP
-Windows XP for gnome!
+Windows XP theme for gnome!
 
 1. Download Retro-desk.zip 
 2. Extract folder
